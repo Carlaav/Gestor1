@@ -2,6 +2,8 @@
 
 Repositorio del proyecto completo del curso de Python.
 
+https://g1pjgv.deta.dev/docs
+
 ## Instalar las dependencias
 
 _Nota: Sólo incluye pytest para realizar pruebas unitarias._
